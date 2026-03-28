@@ -3,7 +3,7 @@
 Name: AVYANJALI KUMAR  
 Registration Number: 25BAI10775  
 Branch: B.Tech CSE (AI & ML)  
-University: VIT 
+University: Vellore Institute Technology
 
 ## Project Overview
 This repository contains my Digital Literacy Portfolio created as part of the CSE0001 Digital Literacy course. The project demonstrates my understanding of digital tools, professional communication, online safety, and responsible digital behaviour.
